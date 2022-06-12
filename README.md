@@ -9,6 +9,9 @@ Am i reaching savings target?
 Where/how do i spend?
 Where/ How do i save?
 
+Data in excel
+![image](https://user-images.githubusercontent.com/51242225/173235167-ba998c50-3cf9-46f5-ac71-fd2e24a31d8c.png)
+
 
 Made a mockup in Powerpoint
 ![image](https://user-images.githubusercontent.com/51242225/173235022-10a356c1-96bd-4582-acb7-6512b45b7a6c.png)
