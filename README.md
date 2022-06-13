@@ -3,10 +3,15 @@
 Making my personal dashboard with PowerBi
 
 Answers few questions like
+
 What is my net worth?
+
 Is my net spending pattern right?
+
 Am i reaching savings target?
+
 Where/how do i spend?
+
 Where/ How do i save?
 
 Data in excel
