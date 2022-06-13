@@ -33,3 +33,6 @@ NetWorth Graph per month
 Financial Dashboard
 ![image](https://user-images.githubusercontent.com/51242225/173234994-e3070f44-fbaa-46bf-b134-5f69f2db1d7c.png)
 
+
+Credits to Dhaval Patel sir for helping me to make this project
+
